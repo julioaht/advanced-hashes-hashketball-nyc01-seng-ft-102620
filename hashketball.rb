@@ -162,3 +162,5 @@ def player_numbers(team_numbers)
     end
   end
 end
+
+def player_stats(player_name)
